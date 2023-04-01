@@ -2,7 +2,7 @@
 CNN based emotion detection using FER2013 dataset in Kaggle -check whether there are 7 folders for each classes (happy, neutral, sad, angry, fear, disgust and surprise).
 ##  Notice  ##
 
-**Website for emotion dtetction dataset (FER2013):
+**Website for emotion detection dataset (FER2013):
 https://www.kaggle.com/datasets/msambare/fer2013?resource=download
 
 **Packages need to be installed (for jupyer notbook usage)
